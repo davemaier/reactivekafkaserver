@@ -4,6 +4,9 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+### confluent cloud credentials ###
+ccloud.properties
+
 ### STS ###
 .apt_generated
 .classpath
